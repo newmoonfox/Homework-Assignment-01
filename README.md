@@ -1,2 +1,5 @@
 # Homework-Assignment-01
-Code refactoring assignment: cleaning up duplicates in CSS files, adding sections, nav bar, in HTML file and simplifying code in file.
+Removing ID selectors in HTML (no #s in CSS document).
+Adding navigation bar in HTML document.
+Cleaning up duplicates in CSS document. 
+Adding <sections> tags within HTML. 
